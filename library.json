@@ -12,13 +12,13 @@
     "type": "git",
     "url": "https://github.com/marvinroger/async-mqtt-client.git"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "frameworks": "arduino",
   "platforms": ["espressif32"],
   "dependencies": [
     {
       "name": "AsyncTCP",
-      "version": ">=1.1.1",
+      "version": ">=3.5.5",
       "platforms": "espressif32"
     }
   ]
